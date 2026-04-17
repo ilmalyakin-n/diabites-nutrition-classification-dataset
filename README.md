@@ -25,7 +25,7 @@ File-file ini adalah hasil *training* yang siap diserahkan kepada tim *AI Engine
 * ⚙️ `model.keras`: Model *Deep Learning* utama.
 * 📏 `scaler.pkl`: Objek *StandardScaler* untuk normalisasi skala fitur input.
 * 🔠 `label_encoder.pkl`: Objek *LabelEncoder* untuk menerjemahkan output prediksi kembali menjadi teks (`Recommended`, `Caution`, `Not Recommended`).
-
+* **dapatkan Model (Releases):** [diabites_model_artifacts_v1.0.zip](https://github.com/ilmalyakin-n/diabites-nutrition-classification-dataset/releases/tag/v1.0.0-checkpoint)
 ---
 
 ## 📊 Exploratory & Explanatory Data Analysis (EDA)
