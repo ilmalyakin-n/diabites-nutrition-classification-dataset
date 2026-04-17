@@ -1,4 +1,4 @@
-# 🩺 DiaBites: Nutrition Classification Model (Data Science Pipeline)
+# 🩺 DiaBites: Nutrition Classification Dataset (Data Science Pipeline)
 
 Repositori ini berfokus pada tahapan penyediaan dan pembuatan dataset untuk proyek DiaBites, sebuah sistem penilai keamanan gizi bagi penderita diabetes. Sebagai luaran dari Checkpoint 1, pipeline ini mencakup tahapan Data Wrangling, Exploratory Data Analysis (EDA), serta Model Training. Perlu dicatat bahwa pembuatan model Deep Learning (TensorFlow) di sini hanyalah sarana eksperimental yang digunakan oleh Data Scientist untuk menguji dan membuktikan bahwa dataset yang telah dibangun sudah valid dan siap diproses oleh algoritma Machine Learning
 
